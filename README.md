@@ -5,6 +5,6 @@ I used *Exportify* to get the csv file of my playlist, but you can edit the code
 
 # How to use:
 1) Place both csv files on the root of the proyect
-2) Change the names of "ARCHIVO_A" and "ARCHIVO_B" on Main.py (OPTIONAL: adjust the matching umbral)
+2) Change the names of "playlist_a" and "playlist_b" on Main.py (OPTIONAL: adjust the matching umbral)
 3) run with: python Main.py 
 4) Check the output csv file (I highly recommend using a csv viewer like the "csv" exptensión on vscode to visualize easily)
